@@ -83,6 +83,6 @@ Minimal stack. Maximum output.
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/your-username/game-arcade.git
+git clone https://github.com/deepanjali-codes/game-arcade.git
 cd game-arcade
 python main.py
